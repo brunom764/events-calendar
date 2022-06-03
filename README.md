@@ -4,6 +4,8 @@ Deseja testar?
 Clique aqui: https://events-calendar-lovat.vercel.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<img src='https://portifolio-brunom764.vercel.app/static/media/eventsCalendar.c904ad1774d752044715.png' heigth:10rem width:50rem/>
+
 ## Available Scripts
 
 In the project directory, you can run:
