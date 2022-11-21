@@ -14,6 +14,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - React
 - TypeScript
 - Recoil
+- Sass
 
 #### 🧭 Rodando a aplicação web
 
