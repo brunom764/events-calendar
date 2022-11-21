@@ -12,7 +12,7 @@ Clique aqui: https://events-calendar-lovat.vercel.app/
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - React
-- Sass
+- TypeScript
 - Recoil
 
 #### 🧭 Rodando a aplicação web
