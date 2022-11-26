@@ -21,7 +21,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/brunom764/braFood.git
+$ git clone https://github.com/brunom764/events-calendar.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd README-events-calendar
