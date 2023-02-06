@@ -1,6 +1,6 @@
 # Events calendar
 
-Um calendário utilizando CRUD,o qual atualiza, cria e remove eventos feita com a biblioteca React e recoil.
+Um calendário utilizando CRUD,o qual atualiza, cria e remove eventos feita com react js.
 
 Deseja testar? 
 Clique aqui: https://events-calendar-lovat.vercel.app/
